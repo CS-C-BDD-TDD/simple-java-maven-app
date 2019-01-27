@@ -1,3 +1,6 @@
+#!groovy
+@Library('DevSecOps-Shared-Libs@master')_
+
 pipeline {
     agent any
     
